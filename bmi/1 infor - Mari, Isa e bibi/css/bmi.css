@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(117, 158, 247);
+}
+
+.side{
+    display: inline; 
+    word-spacing: 390px;
+}
+
+img{
+    width: 380px;
+    height: 250px;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+hr{
+    text-align: center;
+}
+
+
+

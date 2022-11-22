@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(117, 158, 247);
+}
+
+.side{
+    display: inline; 
+    word-spacing: 390px;
+}
+
+img3 {
+
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
+    border: 5px solid rgb(117, 158, 247);
+    margin-right: 20px;
+}
